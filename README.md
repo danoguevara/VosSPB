@@ -8,11 +8,10 @@ Pre processing of metadata for [VOSviewer](https://www.vosviewer.com/) supported
 
 George D. Muñoz Esquivel, B.Sc. (s)
 
-- Author's name: George Muñoz / Here add your Scholar and ORCID links
+- Author's name: George Muñoz - george.munoz@unmsm.edu.pe
 
 ---
 
 ### Description
 
-This repository allows users to create files for several purposes awa awa awa ...
-Change this as you wish
+This repository allows users to retrieve the DOIs of each author's most recent articles using their ORCID. This can be used in VOSViewer to build a Concepts Network Visualization.
